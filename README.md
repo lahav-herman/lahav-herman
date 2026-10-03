@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## About
 
 I build tools at the intersection of security, automation, and hardware. Currently learning offensive security fundamentals and low-level Linux, and writing scripts that remove repetitive work.
