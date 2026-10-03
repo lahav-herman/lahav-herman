@@ -54,6 +54,6 @@ I build tools at the intersection of security, automation, and hardware. Current
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HANDLE/HANDLE/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/lahav-herman/lahav-herman/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
