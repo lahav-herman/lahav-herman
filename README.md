@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # lahav-herman
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Cybersecurity;Automation;Embedded+Systems" alt="Cybersecurity, Automation, Embedded Systems" />
